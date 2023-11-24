@@ -1,2 +1,2 @@
-# sider
+# Sider
 Learning with Redis + Rust
